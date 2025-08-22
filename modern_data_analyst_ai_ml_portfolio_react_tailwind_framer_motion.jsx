@@ -393,13 +393,13 @@ export default function Portfolio() {
           <div className="mx-auto grid max-w-5xl gap-4 px-4 md:grid-cols-2 md:px-6">
             <Card>
               <CardHeader>
-                <CardTitle>B.Sc. in CSc – Dhaka International University</CardTitle>
+                <CardTitle>B.Sc. in Computer Science and Engineering – Dhaka International University</CardTitle>
               </CardHeader>
               <CardContent className="text-muted-foreground">2020</CardContent>
             </Card>
             <Card>
               <CardHeader>
-                <CardTitle>Diploma in Engineering – Jhenaidah Polytechnic Institute</CardTitle>
+                <CardTitle>Diploma in Computer Engineering – Jhenaidah Polytechnic Institute</CardTitle>
               </CardHeader>
               <CardContent className="text-muted-foreground">2016</CardContent>
             </Card>
